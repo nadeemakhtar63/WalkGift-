@@ -21,9 +21,24 @@ A brief description of your project.
 
 ## Screenshots
 ### Home Page
-![Home Page](images/screenshot1.png)
+![Home Page](images/pic1.jpeg)
+![Home Page](images/pic2.jpeg)
+![Home Page](images/pic3.jpeg)
+![Home Page](images/pic4.jpeg)
+![Home Page](images/pic5.jpeg)
+![Home Page](images/pic6.jpeg)
+![Home Page](images/pic7.jpeg)
+![Home Page](images/pic8.jpeg)
+![Home Page](images/pic9.jpeg)
+![Home Page](images/pic10.jpeg)
+![Home Page](images/pic11.jpeg)
+![Home Page](images/pic12.jpeg)
+![Home Page](images/pic13.jpeg)
+![Home Page](images/pic14.jpeg)
+![Home Page](images/pic15.jpeg)
 
 
 
 ### Workflow Diagram
-![Workflow Diagram](images/workflow-diagram.png)
+
+[//]: # (![Workflow Diagram]&#40;images/workflow-diagram.png&#41;)
