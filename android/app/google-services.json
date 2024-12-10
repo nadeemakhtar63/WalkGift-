@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "590332897481",
+    "project_id": "walk-gift",
+    "storage_bucket": "walk-gift.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590332897481:android:70ece925fcb7a352b5c518",
+        "android_client_info": {
+          "package_name": "com.packagewalk.walk_gift"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJRVKr8-CZjJZTkvoBefp4cqFxA84EkcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
