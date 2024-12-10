@@ -14,3 +14,16 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+# Project Name
+
+## Description
+A brief description of your project.
+
+## Screenshots
+### Home Page
+![Home Page](images/screenshot1.png)
+
+
+
+### Workflow Diagram
+![Workflow Diagram](images/workflow-diagram.png)
